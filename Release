@@ -1,0 +1,8 @@
+Origin: MeoBlack
+Label: CHIEN-IT
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: MeoBlack Oficial Repo
