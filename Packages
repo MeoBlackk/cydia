@@ -7,26 +7,58 @@ Depends: mobilesubstrate
 Filename: ./debs/esp-vng-vxv.deb
 Size: 1668886
 MD5sum: f67ece63ce6a47df7e9c311cde04e93b
-Description: VXV
-Name: ESP + antiban VXV
+Description: HACK ESP CHO PUBG VNG
+Name: ESP PUBG VNG
 Author: VXV
 
-Package: com.longmen06.milkyway2
-Section: Tweaks
-Installed-Size: 376
-Maintainer: Long Mến
+Package: com.meoblack.speedff
 Architecture: iphoneos-arm
-Version: 0.2.1
-Replaces: net.kenhtao.backgrounderaction13
-Depends: mobilesubstrate, applist, preferenceloader
-Conflicts: jp.akusio.milkyway2
-Filename: ./debs/esp-vng-vxv.deb
-Size: 84622
-MD5sum: 92cf982038946248c6e74e4edc5ccae1
-SHA1: 7ffc775999893e8e09e5c59be6065c6ff890f089
-SHA256: d4d2bfdc4417d1cd6367abf0eebfd7777d8928f8b8f31e462411767c61326562
-Description: Mở nhiều cửa sổ ứng dụng trên iOS 13.
-Name: MilkyWay 2 VN
-Author: akusio <akusio-report@neko2.net>
-Sileodepiction: Mở nhiều cửa sổ ứng dụng trên iOS 13.
-Depiction: Mở nhiều cửa sổ ứng dụng trên iOS 13.
+Version: 1.0
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/com.meoblack.speedff_1.0_iphoneos-arm.deb
+Size: 528
+MD5sum: 9dafe918ecc8afdc6f10db56b24951ca
+Description: MENU HACK DL SPEED,GHOST HACK CHO FREE FIRE
+Name: Hack Speed Free Fire 
+Author: MeoBlack
+
+Package: com.meoblack.hackmaplq
+Architecture: iphoneos-arm
+Version: 1.42.1
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/com.meoblack.hackmaplq_1.42.1_iphoneos-arm.deb
+Size: 528
+MD5sum: 1cfef6a93ac2eb97eef3c670276da203
+Description: HACK MAP LIÊN QUÂN!
+Name: Hack Speed Free Fire 
+Author: MeoBlack
+
+Package: com.meoblack.headshotff
+Architecture: iphoneos-arm
+Version: 1.66.0
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/com.meoblack.headshotff_1.66.0_iphoneos-arm.deb
+Size: 616
+MD5sum: 90e9364aa1a99d9d47f96665fae0e587
+Description: HACK PLA HEADSHOT FF 1.66.X
+Name: HACK PLA HEADSHOT FF
+Author: MeoBlack
+
+Package: com.meoblack.codmvng
+Architecture: iphoneos-arm
+Version: 1.8.28
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/vn.meoblack.codmvng_1.8.28_iphoneos-arm.deb
+Size: 319351
+MD5sum: 44ec805a2173ffc6970b3eadc627984a
+Description: HACK CODM VNG BY BONIOS
+Name: CODM VNG FREE BY BONIOS - Mod Menu
+Author: MeoBlack
