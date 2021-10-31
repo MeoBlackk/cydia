@@ -1,7 +1,7 @@
 Package: VXV.VNG.VN
 Architecture: iphoneos-arm
 Version: 0.0.0-1+debug
-Section: Tweaks
+Section: HACK GAME
 Maintainer: MeoBlack
 Depends: mobilesubstrate
 Filename: ./debs/esp-vng-vxv.deb
@@ -9,16 +9,16 @@ Size: 1668886
 MD5sum: f67ece63ce6a47df7e9c311cde04e93b
 Description: HACK ESP CHO PUBG VNG
 Name: ESP PUBG VNG
-Author: VXV
+Author: MeoBlack
 
 Package: com.meoblack.speedff
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: HACK GAME
 Maintainer: MeoBlack
 Depends: mobilesubstrate
 Filename: ./debs/com.meoblack.speedff_1.0_iphoneos-arm.deb
-Size: 528
+Size: 183102
 MD5sum: 9dafe918ecc8afdc6f10db56b24951ca
 Description: MENU HACK DL SPEED,GHOST HACK CHO FREE FIRE
 Name: Hack Speed Free Fire 
@@ -27,11 +27,11 @@ Author: MeoBlack
 Package: com.meoblack.hackmaplq
 Architecture: iphoneos-arm
 Version: 1.42.1
-Section: Tweaks
+Section: HACK GAME
 Maintainer: MeoBlack
 Depends: mobilesubstrate
 Filename: ./debs/com.meoblack.hackmaplq_1.42.1_iphoneos-arm.deb
-Size: 528
+Size: 186184
 MD5sum: 1cfef6a93ac2eb97eef3c670276da203
 Description: HACK MAP LIÊN QUÂN!
 Name: Hack Speed Free Fire 
@@ -40,7 +40,7 @@ Author: MeoBlack
 Package: com.meoblack.headshotff
 Architecture: iphoneos-arm
 Version: 1.66.0
-Section: Tweaks
+Section: HACK GAME
 Maintainer: MeoBlack
 Depends: mobilesubstrate
 Filename: ./debs/com.meoblack.headshotff_1.66.0_iphoneos-arm.deb
@@ -53,7 +53,7 @@ Author: MeoBlack
 Package: com.meoblack.codmvng
 Architecture: iphoneos-arm
 Version: 1.8.28
-Section: Tweaks
+Section: HACK GAME
 Maintainer: MeoBlack
 Depends: mobilesubstrate
 Filename: ./debs/vn.meoblack.codmvng_1.8.28_iphoneos-arm.deb
