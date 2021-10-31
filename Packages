@@ -1,12 +1,12 @@
 Package: VXV.VNG.VN
 Architecture: iphoneos-arm
-Version: 0.0.0-1+debug
+Version: 1.0.0
 Section: Tweaks
 Maintainer: MeoBlack
 Depends: mobilesubstrate
 Filename: ./debs/esp-vng-vxv.deb
 Size: 1668886
-MD5sum: 4b9d6d89e5d53a9fcc85d6406f47254b
+MD5sum: f67ece63ce6a47df7e9c311cde04e93b
 Description: VXV
 Name: ESP + antiban VXV
 Author: VXV
