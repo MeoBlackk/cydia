@@ -1,6 +1,6 @@
 Package: VXV.VNG.VN
 Architecture: iphoneos-arm
-Version: 1.0.0
+Version: 0.0.0-1+debug
 Section: Tweaks
 Maintainer: MeoBlack
 Depends: mobilesubstrate
