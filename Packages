@@ -14,6 +14,7 @@ Author: VXV
 Package: com.meoblack.speedff
 Architecture: iphoneos-arm
 Version: 1.0
+<<<<<<< HEAD
 Section: Tweaks
 Maintainer: MeoBlack
 Depends: mobilesubstrate
@@ -6716,3 +6717,53 @@ Support: https://hashbang.productions/support/
 Tag: role::developer, compatible_min::ios5.0
 dev: hbang
 
+=======
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/com.meoblack.speedff_1.0_iphoneos-arm.deb
+Size: 528
+MD5sum: 9dafe918ecc8afdc6f10db56b24951ca
+Description: MENU HACK DL SPEED,GHOST HACK CHO FREE FIRE
+Name: Hack Speed Free Fire 
+Author: MeoBlack
+
+Package: com.meoblack.hackmaplq
+Architecture: iphoneos-arm
+Version: 1.42.1
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/com.meoblack.hackmaplq_1.42.1_iphoneos-arm.deb
+Size: 528
+MD5sum: 1cfef6a93ac2eb97eef3c670276da203
+Description: HACK MAP LIÊN QUÂN!
+Name: Hack Speed Free Fire 
+Author: MeoBlack
+
+Package: com.meoblack.headshotff
+Architecture: iphoneos-arm
+Version: 1.66.0
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/com.meoblack.headshotff_1.66.0_iphoneos-arm.deb
+Size: 616
+MD5sum: 90e9364aa1a99d9d47f96665fae0e587
+Description: HACK PLA HEADSHOT FF 1.66.X
+Name: HACK PLA HEADSHOT FF
+Author: MeoBlack
+
+Package: com.meoblack.codmvng
+Architecture: iphoneos-arm
+Version: 1.8.28
+Section: Tweaks
+Maintainer: MeoBlack
+Depends: mobilesubstrate
+Filename: ./debs/vn.meoblack.codmvng_1.8.28_iphoneos-arm.deb
+Size: 319351
+MD5sum: 44ec805a2173ffc6970b3eadc627984a
+Description: HACK CODM VNG BY BONIOS
+Name: CODM VNG FREE BY BONIOS - Mod Menu
+Author: MeoBlack
+>>>>>>> 54b9ab1e2604a4aefe6c7438ca083019c7366a33
