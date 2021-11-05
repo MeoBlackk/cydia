@@ -1,7 +1,7 @@
 Package: net.kenhtao.prysm
 Version: 1.9.1
 Section: Theme
-Maintainer: MeoBlack
+Maintainer: Kênh Táo
 Homepage: https://repo.packix.com/package/com.laughingquoll.prysm/
 Description: Trung tâm điều khiển hoàn toàn mới.
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
