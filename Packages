@@ -1,18 +1,16 @@
-Package: net.kenhtao.prysm
+Package: com.meoblack.prysm
 Version: 1.9.1
 Section: Tweaks
-Maintainer: Kênh Táo
-Filename: ./debs/net.kenhtao.prysm_1.9.1_iphoneos-arm.deb
-Homepage: https://repo.packix.com/package/com.laughingquoll.prysm/
+Maintainer: MeoBlack
 Description: Trung tâm điều khiển hoàn toàn mới.
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
-Conflicts: vn.kenhtao.prysm, com.laughingquoll.prysm
+Filename: ./debs/com.meoblack.prysm_1.9.1_iphoneos-arm.deb
 Architecture: iphoneos-arm
-Installed-Size: 3232
-Size: 831294
-Name: Prysm VN
+Size: 1072636
+Name: Prysm
 Author: LaughingQuoll
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Depiction: Trung tâm điều khiển hoàn toàn mới.
+SileoDepiction: Trung tâm điều khiển hoàn toàn mới.
 
 Package: VXV.VNG.VN
 Architecture: iphoneos-arm
