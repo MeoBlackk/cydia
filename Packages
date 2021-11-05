@@ -12,6 +12,19 @@ Author: LaughingQuoll
 Depiction: Trung tâm điều khiển hoàn toàn mới.
 SileoDepiction: Trung tâm điều khiển hoàn toàn mới.
 
+Package: com.meoblack.lockdroid
+Name: LockDroid
+Filename: ./debs/com.meoblack.lockdroid_0.0_beta8_iphoneos-arm.deb
+Author: julioverne
+Version: 0.0~beta8
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Description: Màn hình khóa Android
+Size: 203952
+Maintainer: MeoBlack
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
+
 Package: VXV.VNG.VN
 Architecture: iphoneos-arm
 Version: 0.0.0-1+debug
