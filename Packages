@@ -8,6 +8,7 @@ Description: Trung tâm điều khiển hoàn toàn mới.
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Conflicts: vn.kenhtao.prysm, com.laughingquoll.prysm
 Architecture: iphoneos-arm
+Installed-Size: 3232
 Size: 831294
 Name: Prysm VN
 Author: LaughingQuoll
