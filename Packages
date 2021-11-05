@@ -1,13 +1,13 @@
 Package: net.kenhtao.prysm
 Version: 1.9.1
-Section: Theme
+Section: Tweaks
 Maintainer: Kênh Táo
+Filename: ./debs/net.kenhtao.prysm_1.9.1_iphoneos-arm.deb
 Homepage: https://repo.packix.com/package/com.laughingquoll.prysm/
 Description: Trung tâm điều khiển hoàn toàn mới.
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.opa334.ccsupport
 Conflicts: vn.kenhtao.prysm, com.laughingquoll.prysm
 Architecture: iphoneos-arm
-Filename: ./debs/net.kenhtao.prysm_1.9.1_iphoneos-arm.deb
 Size: 831294
 Name: Prysm VN
 Author: LaughingQuoll
