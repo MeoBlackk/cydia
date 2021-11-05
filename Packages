@@ -10,9 +10,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/net.kenhtao.prysm_1.9.1_iphoneos-arm.deb
 Size: 831294
 Name: Prysm VN
-Author: MeoBlack
+Author: LaughingQuoll
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-
 
 Package: VXV.VNG.VN
 Architecture: iphoneos-arm
