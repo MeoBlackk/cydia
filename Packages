@@ -28,6 +28,7 @@ Package: com.pixelomer.mobilegoose
 Name: MobileGoose
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
+Filename: ./debs/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm (1).deb
 Description: An annoying goose for your iDevice
 Maintainer: MeoBlack
 Author: MeoBlack
