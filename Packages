@@ -12,6 +12,30 @@ Author: LaughingQuoll
 Depiction: Trung tâm điều khiển hoàn toàn mới.
 SileoDepiction: Trung tâm điều khiển hoàn toàn mới.
 
+Package: com.meoblack.fakeios15.1
+Name: Fake Ios 15.1
+Version: 15.1~Beta2
+Architecture: iphoneos-arm
+Description: Fake Ios kích hoạt ICCID L
+Filename: ./debs/com.meoblack.fakeios15.1_15.1_Beta2_iphoneos-arm.deb
+Author: MeoBlack
+Section: System
+Depends: mobilesubstrate, firmware (>=5.0)
+Maintainer: MeoBlack
+Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
+
+Package: com.pixelomer.mobilegoose
+Name: MobileGoose
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: An annoying goose for your iDevice
+Filename: ./debs/com.pixelomer.mobilegoose_1.3.2_iphoneos-arm (1).deb
+Maintainer: MeoBlack
+Author: MeoBlack
+Section: Tweaks
+Version: 1.3.2
+Size: 679746
+
 Package: com.meoblack.lockdroid
 Name: LockDroid
 Filename: ./debs/com.meoblack.lockdroid_0.0_beta8_iphoneos-arm.deb
