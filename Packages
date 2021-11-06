@@ -24,16 +24,17 @@ Depends: mobilesubstrate, firmware (>=5.0)
 Maintainer: MeoBlack
 Icon: file:///Applications/Cydia.app/Sections/hethongg1.png
 
-Package: com.pixelomer.mobilegoose
+Package: com.meoblakc.mobilegoose
 Name: MobileGoose
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
+Filename: ./debs/com.meoblack.mobilegoose_1.3.2_iphoneos-arm.deb
 Description: An annoying goose for your iDevice
 Maintainer: MeoBlack
 Author: MeoBlack
 Section: Tweaks
 Version: 1.3.2
-Size: 679746
+
 
 
 Package: com.meoblack.lockdroid
