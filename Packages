@@ -35,7 +35,20 @@ Author: MeoBlack
 Section: Tweaks
 Version: 1.3.2
 
-
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Author: MeoBlack
+Filename: ./debs/com.meoblack.fixappnh_2.1.1R_iphoneos-arm (2).deb
+Maintainer: MeoBlack
+Name: Fix App Ngân Hàng
+Package: com.meoblack.fixappnh
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Section: Tweaks
+Version: 2.1.1R
+Architecture: iphoneos-arm
+Description: Fix app ngân hàng máy jailbreak và bypass 
+dev: CHIEN-IT
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
 Package: com.meoblack.lockdroid
 Name: LockDroid
