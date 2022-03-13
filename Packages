@@ -45,6 +45,7 @@ Depends: mobilesubstrate, preferenceloader
 Section: Tweaks
 Version: 1.2.0
 Size: 409432
+md5sum: A805804D52931C9AC27AD7E4888D235D
 Architecture: iphoneos-arm
 Description: Fix app ngân hàng máy jailbreak và bypass 
 dev: CHIEN-IT
